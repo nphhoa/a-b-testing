@@ -32,6 +32,7 @@ My journey begins with a meticulous exploration of the dataset, which includes v
 ## 📊 4. Conclusion
 
 In this analysis, I explored the effectiveness of advertisements versus public service announcements (PSAs). Findings from exploratory data analysis (EDA) revealed higher purchase probabilities among users exposed to ads. Hypothesis testing further validated these differences, emphasizing the significant impact of targeted advertising on purchase behavior. By integrating EDA with robust statistical methods, we underscored the pivotal role of ads in shaping consumer decisions, providing valuable insights for optimizing future marketing strategies.
+
 **Recommendations**:
 - Optimize Ad Placement by Day: Because Friday and Monday have the person saw the biggest amount of ads, ensure that these days are effectively utilized.
 - Adjust Advertising Timing: Consider increasing the number of ads during peak times such as 1 PM, 12 PM, and 11 AM when users are more likely to see ads.
