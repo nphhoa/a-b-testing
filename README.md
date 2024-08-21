@@ -22,6 +22,7 @@ The companies are interested in answering two questions:
 With the second question in mind, we normally do an A/B test. The majority of the people will be exposed to ads (the experimental group). And a small portion of people (the control group) would instead see a Public Service Announcement (PSA) (or nothing) in the exact size and place the ad would normally be.
 
 ## 📊 3. Process
+My journey begins with a meticulous exploration of the dataset, which includes variables such as the day of the week with the highest ad displays, the hour of the day with the most ad displays, and the total number of ads shown to prospects. 
 
 * **Data Overview**: I began by exploring the dataset to understand its structure and contents. This included identifying key features, data types, etc.
 * **Univariate Analysis**: In this stage, I analyzed each variable individually to gain insights into their distributions and key statistics.
